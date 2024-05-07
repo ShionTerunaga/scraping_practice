@@ -1,0 +1,1 @@
+export { useMainNews } from "./useMainNews"
